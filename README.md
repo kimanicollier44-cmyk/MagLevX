@@ -1,4 +1,4 @@
-![MagLevX cover](assets/cover.png)
+![MagLevX cover](MagLevX%20cover.png)
 
 # MagLevX 🚄🧲
 
